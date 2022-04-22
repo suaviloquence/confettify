@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8" />
+	<title>Confettify Options</title>
+</head>
+
+<body>
+	<form id="other"></form>
+
+	<form id="prefs">
+		<ul>
+			<p><em><code>*</code> represents a wildcard</em></p>
+			<!-- inject saved here -->
+			<li>
+				<label for="add">Other: </label>
+				<input type="text" id="add" form="other" required autocomplete="off" />
+				<input type="submit" value="+" form="other" />
+			</li>
+		</ul>
+		<input type="submit" value="Update" />
+	</form>
+	<script src="options.js"></script>
+</body>
+
+</html>
