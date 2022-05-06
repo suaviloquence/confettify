@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Confettify",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Adds confetti to all assignments!",
 	"icons": {
 		"48": "icons/confettify-48x48.png",
