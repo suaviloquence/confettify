@@ -27,5 +27,3 @@ function update() {
 update();
 
 chrome.runtime.onMessage.addListener(update);
-
-chrome.runtime.openOptionsPage();
