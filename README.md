@@ -1,4 +1,4 @@
-# ![confettify icon](https://github.com/suaviloquence/confettify/raw/dev/confettify/icons/confettify-128x128.png) confettify
+# ![confettify icon](https://github.com/suaviloquence/confettify/raw/dev/confettify/icons/confettify-48x48.png) confettify
 
 *make learning more fun*
 
